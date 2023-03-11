@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm Eagle Xuhui Ying! <br/><a href="https://github.com/xuhui-eagle-ying">Programmer</a>, <a href="https://www.linkedin.com/in/xuhui-eagle-ying/">Master of Science in Business Analytics at Wake Forest University
 
-<!--
-**Eagle-Xuhui-Ying/eagle-xuhui-ying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>SQL</b>
+  - [Data Management Capstone Project](https://github.com/xuhui-eagle-ying/data_management_capstone_project.github.io)
+- <b> Linear & Logistic Regression (R)</b>
+  - [Prosperity Analysis for African Developing Countries](https://github.com/school_donations_analysis.github.io) <b><i>
+  - [University Enrollment Analysis](https://github.com/university_enrollment_analysis.github.io) <b><i>
+- <b> Machine Learning (R)</b>
+  - [Customer Churn Analysis for Mobile Phone Companies](https://github.com/customer_churn_analysis_for_mobile_phone_companies.github.io)
+  - [Transactions Fraud Detection](https://github.com/transactions_fraud_detection.github.io)
+  - [Boston Housing Price Prediction](https://github.com/boston_housing_price_prediction.github.io)
+  - [Loan Defaults Prediction](https://github.com/loan_defaults_prediction.github.io)
+  - [Retail Marketing Analysis](https://github.com/retail_marketing_analysis.github.io)
+  - [School Donations Analysis](https://github.com/school_donations_analysis.github.io)
+- <b> Time Series (R)</b>
+  - [Time Series Analysis of Capital Bikeshare Users](https://github.com/time_series_analysis_of_capital_bikeshare_users.github.io)
+  - [Wind Power Forecasting](https://github.com/wind_power_forecasting.github.io)
+- <b> Text Mining (R)</b>
+  - [Text Analysis of Donald Trump’s Twitter](https://github.com/text_analysis_of_donald_trump-s_twitter.github.io)
+- <b> Data Visualization (Python)</b>
+  - [Data Visualization on Typhoon](https://github.com/data_visualization_on_typhoon.github.io)
