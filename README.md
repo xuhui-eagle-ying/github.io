@@ -1,10 +1,10 @@
 <h1>Hi, I'm Eagle Xuhui Ying! <br/><a href="https://github.com/xuhui-eagle-ying"><a href="https://www.linkedin.com/in/xuhui-eagle-ying/">Master of Science in Business Analytics at Wake Forest University
 
-- <b>SQL</b>
+- <b> SQL</b>
   - [Data Management Capstone Project](https://github.com/xuhui-eagle-ying/data_management_capstone_project.github.io)
 - <b> Linear & Logistic Regression (R)</b>
-  - [Prosperity Analysis for African Developing Countries](https://github.com/school_donations_analysis.github.io) <b><i>
-  - [University Enrollment Analysis](https://github.com/university_enrollment_analysis.github.io) <b><i>
+  - [Prosperity Analysis for African Developing Countries](https://github.com/school_donations_analysis.github.io)
+  - [University Enrollment Analysis](https://github.com/university_enrollment_analysis.github.io)
 - <b> Machine Learning (R)</b>
   - [Customer Churn Analysis for Mobile Phone Companies](https://github.com/customer_churn_analysis_for_mobile_phone_companies.github.io)
   - [Transactions Fraud Detection](https://github.com/transactions_fraud_detection.github.io)
