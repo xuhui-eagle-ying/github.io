@@ -3,7 +3,7 @@
 - <b> SQL</b>
   - [Data Management Capstone Project](https://github.com/xuhui-eagle-ying/data_management_capstone_project.github.io)
 - <b> Linear & Logistic Regression (R)</b>
-  - [Prosperity Analysis for African Developing Countries](https://github.com/xuhui-eagle-ying/school_donations_analysis.github.io)
+  - [Prosperity Analysis for African Developing Countries](https://github.com/xuhui-eagle-ying/prosperity_analysis_for_african_developing_countries.github.io)
   - [University Enrollment Analysis](https://github.com/xuhui-eagle-ying/university_enrollment_analysis.github.io)
 - <b> Machine Learning (R)</b>
   - [Customer Churn Analysis for Mobile Phone Companies](https://github.com/xuhui-eagle-ying/customer_churn_analysis_for_mobile_phone_companies.github.io)
