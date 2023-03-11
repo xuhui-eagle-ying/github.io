@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eagle Xuhui Ying! <br/><a href="https://github.com/xuhui-eagle-ying">Programmer</a>, <a href="https://www.linkedin.com/in/xuhui-eagle-ying/">Master of Science in Business Analytics at Wake Forest University
+<h1>Hi, I'm Eagle Xuhui Ying! <br/><a href="https://github.com/xuhui-eagle-ying">, <a href="https://www.linkedin.com/in/xuhui-eagle-ying/">Master of Science in Business Analytics at Wake Forest University
 
 - <b>SQL</b>
   - [Data Management Capstone Project](https://github.com/xuhui-eagle-ying/data_management_capstone_project.github.io)
