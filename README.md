@@ -1,5 +1,7 @@
 <h1>Hi, I'm Eagle Xuhui Ying! <br/><a href="https://github.com/xuhui-eagle-ying"><a href="https://www.linkedin.com/in/xuhui-eagle-ying/">Master of Science in Business Analytics at Wake Forest University
 
+<h2>👨‍💻 Analytical Project Experience:</h2>
+
 - <b> SQL</b>
   - [Data Management Capstone Project](https://github.com/xuhui-eagle-ying/data_management_capstone_project.github.io)
 - <b> Linear & Logistic Regression (R)</b>
