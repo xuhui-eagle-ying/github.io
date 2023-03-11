@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eagle Xuhui Ying! <br/><a href="https://github.com/xuhui-eagle-ying"><a href="https://www.linkedin.com/in/xuhui-eagle-ying/">Master of Science in Business Analytics at Wake Forest University</a></h1>
+<h1>Hi, I'm Eagle Xuhui Ying! <br/><a href="https://github.com/xuhui-eagle-ying"><a href="https://www.linkedin.com/in/xuhui-eagle-ying/">MS in Business Analytics at Wake Forest University</a></h1>
 
 <h2>👨‍💻 Analytical Project Experience</h2>
 
