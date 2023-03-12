@@ -1,4 +1,4 @@
-<h1>Hi, I'm Xuhui (Eagle) Ying! <br/><a href="https://github.com/xuhui-eagle-ying"><a href="https://www.linkedin.com/in/xuhui-eagle-ying/">MS in Business Analytics at Wake Forest University</a></h1><a href="https://www.instagram.com/eagle_yxh/">About Me: Wanderlust, Geographophile, Gourmet, Soccer Fan, Love to Try New Things</a></h1>
+<h1>Hi, I'm Xuhui (Eagle) Ying! <br/><a href="https://github.com/xuhui-eagle-ying"><a href="https://www.linkedin.com/in/xuhui-eagle-ying/">MS in Business Analytics at Wake Forest University</a></h1><a href="https://www.instagram.com/eagle_yxh/">About Me: Travel Lover, Geography Enthusiast, Gourmet, Soccer Fan, Love to Try New Things</a></h1>
 
 <h2>👨‍💻 Analytical Project Experience</h2>
 
