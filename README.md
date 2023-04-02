@@ -14,7 +14,7 @@
   - [Loan Defaults Prediction](https://github.com/xuhui-eagle-ying/loan_defaults_prediction.github.io)
   - [Retail Marketing Analysis](https://github.com/xuhui-eagle-ying/retail_marketing_analysis.github.io)
   - [School Donations Analysis](https://github.com/xuhui-eagle-ying/school_donations_analysis.github.io)
-- <b> Time Series (R)</b>
+- <b> Time Series Forecasting (R)</b>
   - [Time Series Analysis of Capital Bikeshare Users](https://github.com/xuhui-eagle-ying/time_series_analysis_of_capital_bikeshare_users.github.io)
   - [Wind Power Forecasting](https://github.com/xuhui-eagle-ying/wind_power_forecasting.github.io)
 - <b> Text Mining (R)</b>
