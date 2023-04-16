@@ -20,6 +20,6 @@
 - <b> Text Mining (R)</b>
   - [Text Analysis of Donald Trump’s Twitter](https://github.com/xuhui-eagle-ying/text_analysis_of_donald_trump-s_twitter.github.io)
 - <b> Consumer Behavior Analysis (Python)</b>
-  - [Consumer Behavior Analysis for JD.com](https://github.com/xuhui-eagle-ying/Consumer_Behavior_Analysis_for_JD.com.github.io)
+  - [E-commerce Consumer Behavior Analysis for JD.com](https://github.com/xuhui-eagle-ying/Consumer_Behavior_Analysis_for_JD.com.github.io)
 - <b> Data Visualization (Python)</b>
   - [Data Visualization on Typhoon](https://github.com/xuhui-eagle-ying/data_visualization_on_typhoon.github.io)
