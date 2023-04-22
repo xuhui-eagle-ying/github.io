@@ -17,7 +17,7 @@
 - <b> Time Series Forecasting (R)</b>
   - [Time Series Analysis of Capital Bikeshare Users](https://github.com/xuhui-eagle-ying/time_series_analysis_of_capital_bikeshare_users.github.io)
   - [Wind Power Forecasting](https://github.com/xuhui-eagle-ying/wind_power_forecasting.github.io)
-- <b> Text Mining (R)</b>
+- <b> Web Scraping & Text Mining (R)</b>
   - [Text Analysis of Donald Trump’s Twitter](https://github.com/xuhui-eagle-ying/text_analysis_of_donald_trump-s_twitter.github.io)
 - <b> E-commerce Consumer Behavior Analysis (Python)</b>
   - [Consumer Behavior Analysis for JD.com](https://github.com/xuhui-eagle-ying/Consumer_Behavior_Analysis_for_JD.com.github.io)
