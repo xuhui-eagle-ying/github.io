@@ -3,7 +3,7 @@
 <h2>👨‍💻 Analytical Project Experience</h2>
 
 - <b> End-to-end ELT Data Pipeline </b>
-  - [Data Engineering Zoomcamp 2025, DataTalks.Club](https://github.com/xuhui-eagle-ying/data_management_capstone_project.github.io)
+  - [Data Engineering Zoomcamp 2025, DataTalks.Club](https://github.com/xuhui-eagle-ying/de-zoomcamp-yfinance)
 - <b> Linear & Logistic Regression </b>
   - [Prosperity Analysis for African Developing Countries](https://github.com/xuhui-eagle-ying/prosperity_analysis_for_african_developing_countries.github.io)
   - [University Enrollment Analysis](https://github.com/xuhui-eagle-ying/university_enrollment_analysis.github.io)
