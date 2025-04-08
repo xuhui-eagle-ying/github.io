@@ -23,3 +23,6 @@
   - [E-commerce Consumer Behavior Analysis for JD.com](https://github.com/xuhui-eagle-ying/Consumer_Behavior_Analysis_for_JD.com.github.io)
 - <b> Web Scraping & Data Visualization </b>
   - [Data Visualization on Typhoon](https://github.com/xuhui-eagle-ying/data_visualization_on_typhoon.github.io)
+
+<h2> Certificate</h2>
+- <b> CFA Level I </b>: [Data Visualization on Typhoon](https://github.com/xuhui-eagle-ying/data_visualization_on_typhoon.github.io)
