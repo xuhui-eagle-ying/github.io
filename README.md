@@ -21,5 +21,5 @@
   - [Data Visualization on Typhoon](https://github.com/xuhui-eagle-ying/data_visualization_on_typhoon.github.io)
 
 <h2> Certificate</h2>
-    <b> Data Engineering Zoomcamp 2025, DataTalks.Club: </b> <u><a href="Certificate URL">https://certificate.datatalks.club/dezoomcamp/2025/d2db59cfd714254e72fb1bfb19f2058b1bcc7950.pdf</a></u>
-    <b> CFA Level I: </b> <u><a href="Certificate URL">https://credentials.cfainstitute.org/0be50d48-7df0-4f47-b3fa-420ae5ffa985#acc.Laq5rKzE</a></u>
+    <b> Data Engineering Zoomcamp 2025, DataTalks.Club: </b> <u><a href="https://certificate.datatalks.club/dezoomcamp/2025/d2db59cfd714254e72fb1bfb19f2058b1bcc7950.pdf">Certificate URL</a></u>
+    <b> CFA Level I: </b> <u><a href="[Certificate URL](https://credentials.cfainstitute.org/0be50d48-7df0-4f47-b3fa-420ae5ffa985#acc.Laq5rKzE)"></a></u>
