@@ -20,7 +20,7 @@
 - <b> Data Visualization </b>
   - [Data Visualization on Typhoon](https://github.com/xuhui-eagle-ying/data_visualization_on_typhoon.github.io)
 
-<h2>Certificate</h2>
+<h2>📄 Certificate</h2>
 <b>Data Engineering Zoomcamp 2025, DataTalks.Club:</b> 
 <u><a href="https://certificate.datatalks.club/dezoomcamp/2025/d2db59cfd714254e72fb1bfb19f2058b1bcc7950.pdf">Certificate URL</a></u><br>
 <b>CFA Level I:</b> 
