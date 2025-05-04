@@ -20,6 +20,22 @@
 - <b> Data Visualization </b>
   - [Data Visualization on Typhoon](https://github.com/xuhui-eagle-ying/data_visualization_on_typhoon.github.io)
 
+<h2>📚 Reference Sheets</h2>
+<ul>
+  <li><b>SQL Reference Sheet:</b> 
+    <a href="https://github.com/xuhui-eagle-ying/sql-reference-sheet">GitHub Repository</a>
+  </li>
+  <li><b>Pandas Reference Sheet:</b> 
+    <a href="https://github.com/xuhui-eagle-ying/pandas-reference-sheet">GitHub Repository</a>
+  </li>
+  <li><b>PySpark Reference Sheet:</b> 
+    <a href="https://github.com/xuhui-eagle-ying/pyspark-reference-sheet">GitHub Repository</a>
+  </li>
+  <li><b>Mapping - SQL, Pandas, PySpark:</b> 
+    <a href="https://github.com/xuhui-eagle-ying/sql-pandas-pyspark-mapping">GitHub Repository</a>
+  </li>
+</ul>
+
 <h2>📄 Certificate</h2>
 <ul>
   <li><b>Data Engineering Zoomcamp 2025:</b> 
